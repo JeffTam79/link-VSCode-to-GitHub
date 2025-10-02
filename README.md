@@ -19,6 +19,19 @@ Save the executable (.exe) file to your downloads folder.
 ![Save VSCode .exe to Downloads](<Screenshot 2025-10-02 102051.png>)
 
 ## Step 3
+Once the download is complete, right click the file and select **Run as administrator**.
+
+![Run VSCode as Administrator](<Screenshot 2025-10-02 102114.png>)
+
+## Step 4
+Run through the installation prompts and accept all the defaults as shown in the following screenshots. *Hover over the images below for more detail if needed.*
+
+![Installation Prompt 1 - Select Agree](<Screenshot 2025-10-02 102156.png>) 
+![Installation Prompt 2 - Select Next](<Screenshot 2025-10-02 102205.png>) 
+![Installation Prompt 3 - Select Next](<Screenshot 2025-10-02 102213.png>) 
+![Installation Prompt 4 - Select Next](<Screenshot 2025-10-02 102226.png>) 
+![Installation Prompt 5 - Select Install](<Screenshot 2025-10-02 102236.png>) 
+![Installation Prompt 6 - Select Finish](<Screenshot 2025-10-02 102314.png>)
 
 # Step 2
 Log into GitHub using the same browser page. If you do not have an account, create one.
