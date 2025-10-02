@@ -78,6 +78,22 @@ Save the download file to the downloads folder. Then, **"Run as administrator"**
 ![Installation Prompt 1 - Select Finish](<Screenshot 2025-10-02 103318.png>)
 
 ## Step 3
+A Git command line will open. Type the following codes in to establish the username and email that will be used to save the changes to the associated user in the file history of GitHub.
+
+### This command sets your username for all Git repositories on your system. Replace "Your Name" with your actual name.
+`git config --global user.name "Your Name"`
+
+### This command sets your email address for all Git repositories on your system. Replace "your.email@example.com" with your actual email address.
+`git config --global user.email "your.email@example.com"`
+
+### You can check if your username and email have been set correctly by running these commands:
+`git config user.name`
+`git config user.email`
+
+*Alternatively, to view all your global Git configurations, use:*
+`git config --list --global`
+
+
 
 1. Open Folder
 2. Go to Source Control
