@@ -104,8 +104,8 @@ See the below screenshots for examples of what to put:
 ## Step 4
 Return to VSCode and reload the source control screen to confirm that Git is installed.
  
-![Reload](<Screenshot 2025-10-02 103733.png>)
-![Git Installed Properly](<Screenshot 2025-10-02 103814.png>)
+<img src="img/Screenshot 2025-10-02 103733.png" alt="Reload">
+<img src="img/Screenshot 2025-10-02 103814.png" alt="Git Installed Properly">
 
 # Setting up VSCode with GitHub Repository Connection
 Make sure there is a project folder located on the computer and know it's directory path.
@@ -113,43 +113,43 @@ Make sure there is a project folder located on the computer and know it's direct
 ## Step 1
 Select "Open Folder" and find the project folder.
 
-![Open Folder](<Screenshot 2025-10-02 103834.png>) 
-![Select Folder](<Screenshot 2025-10-02 104059.png>)
-![Folder Open in VSCode](<Screenshot 2025-10-02 104116.png>)
+<img src="img/Screenshot 2025-10-02 103834.png" alt="Open Folder">
+<img src="img/Screenshot 2025-10-02 104059.png" alt="Select Folder">
+<img src="img/Screenshot 2025-10-02 104116.png" alt="Folder Open in VSCode">
 
 ## Step 2
 In Source Control, select Initialize Repository. Select the three elipses by "Changes" to open a drop down menu. Then select "Remote" and "Add Remote."
 
-![Initialize Repository](<Screenshot 2025-10-02 104129.png>)
+<img src="img/Screenshot 2025-10-02 104129.png" alt="Initialize Repository">
 
 ## Step 3
-Add a remote (connect to GitHub repository). 
+Add a remote (connect to GitHub repository).
 
-![Add Remote](<Screenshot 2025-10-02 104328.png>)
+<img src="img/Screenshot 2025-10-02 104328.png" alt="Add Remote">
 
 ## Step 4
 When prompted, go to the GitHub repository of your choosing. Then, click the "Code" drop down and copy the link shown below. Then, paste it into the VSCode prompt. 
 
 VSCode will then prompt to rename the remote. Keep it simple.
 
-![Copy GitHub Link](<Screenshot 2025-10-02 104351.png>) 
-![Paste GitHub Link](<Screenshot 2025-10-02 104454.png>) 
-![Rename the Remote](<Screenshot 2025-10-02 104516.png>)
+<img src="img/Screenshot 2025-10-02 104351.png" alt="Copy GitHub Link">
+<img src="img/Screenshot 2025-10-02 104454.png" alt="Paste GitHub Link">
+<img src="img/Screenshot 2025-10-02 104516.png" alt="Rename the Remote">
 
 ## Step 5
 Next, we need to sync or pull from the GitHub repository to make sure VSCode has all of GitHub's changes to avoid errors later. Select the three elipses next to "Changes" and select "Pull, Push" and then "Pull from...".
 
-![Pull From](<Screenshot 2025-10-02 104539.png>)
+<img src="img/Screenshot 2025-10-02 104539.png" alt="Pull From">
 
 ## Step 6
 Next, VSCode will prompt the user to select a branch. Select the option with the "Main" branch.
 
-![Select Main Branch](<Screenshot 2025-10-02 104605.png>)
+<img src="img/Screenshot 2025-10-02 104605.png" alt="Select Main Branch">
 
 ## Step 7
 Select "Publish Branch"
 
-![Publish Branch](<Screenshot 2025-10-02 104624.png>)
+<img src="img/Screenshot 2025-10-02 104624.png" alt="Publish Branch">
 
 ### Syncing Changes on VSCode with GitHub
 
@@ -160,15 +160,15 @@ Then, select "Commit" and select "Yes" when a pop-up appears.
 
 Afterwards, paste the comment from the "Commit" and select "Sync Changes." Press Okay, but make sure the pop-up message states that changes will be pushed to the "main" branch.
 
-![Commit](<Screenshot 2025-10-02 104743.png>) 
-![Yes](<Screenshot 2025-10-02 104754.png>)
-![Sync](<Screenshot 2025-10-02 104812.png>) 
-![Ok](<Screenshot 2025-10-02 104822.png>) 
+<img src="img/Screenshot 2025-10-02 104743.png" alt="Commit">
+<img src="img/Screenshot 2025-10-02 104754.png" alt="Yes">
+<img src="img/Screenshot 2025-10-02 104812.png" alt="Sync">
+<img src="img/Screenshot 2025-10-02 104822.png" alt="Ok">
 
 ## Step 2
 Refresh the GitHub repository page to see the changes.
 
-![Confirm Changes](<Screenshot 2025-10-02 104836.png>)
+<img src="img/Screenshot 2025-10-02 104836.png" alt="Confirm Changes">
 
 # Summary of the Above Steps
 1. Open Folder
