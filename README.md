@@ -164,8 +164,12 @@ Afterwards, paste the comment from the "Commit" and select "Sync Changes." Press
 ![Sync](<Screenshot 2025-10-02 104812.png>) 
 ![Ok](<Screenshot 2025-10-02 104822.png>) 
 
+## Step 2
+Refresh the GitHub repository page to see the changes.
 
+![Confirm Changes](<Screenshot 2025-10-02 104836.png>)
 
+# Summary of the Above Steps
 1. Open Folder
 2. Go to Source Control
 3. Initialize Repository
