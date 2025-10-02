@@ -151,7 +151,7 @@ Select "Publish Branch"
 
 <img src="img/Screenshot 2025-10-02 104624.png" alt="Publish Branch">
 
-#Update README.md Syncing Changes on VSCode with GitHub
+# Update README.md Syncing Changes on VSCode with GitHub
 
 ## Step 1
 Any changes on VSCode will need to be synced with GitHub. It is also good practice to make notes of what was done. Under the "Changes" section, add a comment noting the changes done. Make sure to copy this comment.
