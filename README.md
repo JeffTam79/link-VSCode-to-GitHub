@@ -7,7 +7,7 @@
 
 # Step 1
 Download and run the Visual Studio Code .exe file and accept the default settings.
-
+![Click the download button above.](//img/Screenshot%202025-10-02%20095050.png)
 
 # Step 2
 
