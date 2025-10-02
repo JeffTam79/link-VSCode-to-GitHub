@@ -60,23 +60,23 @@ Make sure to download the Windows x64 option or the option that is most compatib
 ## Step 2
 Save the download file to the downloads folder. Then, **"Run as administrator"** and follow and accept the default settings in each prompt.
 
-![Save to Downloads](<Screenshot 2025-10-02 102933.png>) 
-![Run as administrator](<Screenshot 2025-10-02 103005.png>) 
-![Installation Prompt 1 - Select Next](<Screenshot 2025-10-02 103032.png>) 
-![Installation Prompt 2 - Select Next](<Screenshot 2025-10-02 103039.png>) 
-![Installation Prompt 3 - Select Next](<Screenshot 2025-10-02 103045.png>) 
-![Installation Prompt 4 - Select Next](<Screenshot 2025-10-02 103053.png>) 
-![Installation Prompt 5 - Select Next](<Screenshot 2025-10-02 103101.png>) 
-![Installation Prompt 6 - Select Next](<Screenshot 2025-10-02 103109.png>) 
-![Installation Prompt 7 - Select Next](<Screenshot 2025-10-02 103118.png>) 
-![Installation Prompt 8 - Select Next](<Screenshot 2025-10-02 103124.png>) 
-![Installation Prompt 9 - Select Next](<Screenshot 2025-10-02 103131.png>) 
-![Installation Prompt 10 - Select Next](<Screenshot 2025-10-02 103139.png>) 
-![Installation Prompt 11 - Select Next](<Screenshot 2025-10-02 103146.png>) 
-![Installation Prompt 12 - Select Next](<Screenshot 2025-10-02 103154.png>) 
-![Installation Prompt 13 - Select Next](<Screenshot 2025-10-02 103202.png>) 
-![Installation Prompt 14 - Select Install](<Screenshot 2025-10-02 103209.png>) 
-![Installation Prompt 1 - Select Finish](<Screenshot 2025-10-02 103318.png>)
+<img src="img/Screenshot 2025-10-02 102933.png" alt="Save to Downloads">
+<img src="img/Screenshot 2025-10-02 103005.png" alt="Run as administrator">
+<img src="img/Screenshot 2025-10-02 103032.png" alt="Installation Prompt 1 - Select Next">
+<img src="img/Screenshot 2025-10-02 103039.png" alt="Installation Prompt 2 - Select Next">
+<img src="img/Screenshot 2025-10-02 103045.png" alt="Installation Prompt 3 - Select Next">
+<img src="img/Screenshot 2025-10-02 103053.png" alt="Installation Prompt 4 - Select Next">
+<img src="img/Screenshot 2025-10-02 103101.png" alt="Installation Prompt 5 - Select Next">
+<img src="img/Screenshot 2025-10-02 103109.png" alt="Installation Prompt 6 - Select Next">
+<img src="img/Screenshot 2025-10-02 103118.png" alt="Installation Prompt 7 - Select Next">
+<img src="img/Screenshot 2025-10-02 103124.png" alt="Installation Prompt 8 - Select Next">
+<img src="img/Screenshot 2025-10-02 103131.png" alt="Installation Prompt 9 - Select Next">
+<img src="img/Screenshot 2025-10-02 103139.png" alt="Installation Prompt 10 - Select Next">
+<img src="img/Screenshot 2025-10-02 103146.png" alt="Installation Prompt 11 - Select Next">
+<img src="img/Screenshot 2025-10-02 103154.png" alt="Installation Prompt 12 - Select Next">
+<img src="img/Screenshot 2025-10-02 103202.png" alt="Installation Prompt 13 - Select Next">
+<img src="img/Screenshot 2025-10-02 103209.png" alt="Installation Prompt 14 - Select Next">
+<img src="img/Screenshot 2025-10-02 103318.png" alt="Installation Prompt 15 - Select Finish">
 
 ## Step 3
 A Git command line will open. Type the following codes in to establish the username and email that will be used to save the changes to the associated user in the file history of GitHub.
@@ -96,10 +96,10 @@ A Git command line will open. Type the following codes in to establish the usern
 
 See the below screenshots for examples of what to put:
 
-![Blank Git Command Line](<Screenshot 2025-10-02 103401.png>) 
-![Set Username](<Screenshot 2025-10-02 103433.png>) 
-![Set Email](<Screenshot 2025-10-02 103456.png>) 
-![Verify Information](<Screenshot 2025-10-02 103642.png>)
+<img src="img/Screenshot 2025-10-02 103401.png" alt="Blank Git Command Line">
+<img src="img/Screenshot 2025-10-02 103433.png" alt="Set Username">
+<img src="img/Screenshot 2025-10-02 103456.png" alt="Set Email">
+<img src="img/Screenshot 2025-10-02 103642.png" alt="Verify Information">
 
 ## Step 4
 Return to VSCode and reload the source control screen to confirm that Git is installed.
