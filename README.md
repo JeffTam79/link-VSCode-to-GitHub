@@ -93,6 +93,18 @@ A Git command line will open. Type the following codes in to establish the usern
 *Alternatively, to view all your global Git configurations, use:*
 `git config --list --global`
 
+See the below screenshots for examples of what to put:
+![Blank Git Command Line](<Screenshot 2025-10-02 103401.png>) 
+![Set Username](<Screenshot 2025-10-02 103433.png>) 
+![Set Email](<Screenshot 2025-10-02 103456.png>) 
+![Verify Information](<Screenshot 2025-10-02 103642.png>)
+
+## Step 4
+Return to VSCode and reload the source control screen to confirm that Git is installed.
+
+![Reload](<Screenshot 2025-10-02 103814.png>) 
+![Git Installed Properly](<Screenshot 2025-10-02 103733.png>)
+
 
 
 1. Open Folder
