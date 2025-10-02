@@ -2,7 +2,7 @@
 
 ## Software to Download
 *Please run both softwares as Administrators to your local desktop*
-1. [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
+1. [Visual Studio Code (VSCode)](https://code.visualstudio.com/download#)
 2. [Git](https://git-scm.com/downloads/win)
 
 # Step 1
