@@ -11,6 +11,8 @@
 ## Step 1
 Open the Microsoft Visual Studio Code download page. Select the **"System Installer - x64"** option, which is most compatible with Windows 11 systems. (Please check your computer's settings!)
 
+<p align="center"><img src="assets/ACOF_House_LOGO-DkBlueBlack_357x134.png" alt="The official ACOF logo"></p>
+<img src="img/Screenshot 2025-10-02 102014.png" alt="VSCode Download Page">
 ![VSCode Download Page](<Screenshot 2025-10-02 102014.png>)
 
 ## Step 2
