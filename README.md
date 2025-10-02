@@ -8,6 +8,7 @@
 # Step 1
 Download and run the Visual Studio Code .exe file and accept the default settings.
 
+
 # Step 2
 
 1. Open Folder
