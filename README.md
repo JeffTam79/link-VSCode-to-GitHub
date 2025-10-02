@@ -36,14 +36,14 @@ Run through the installation prompts and accept all the defaults as shown in the
 ## Step 5
 VSCode will launch with a welcome page. (*Not shown in the screenshots below*) Please click through all the initial prompts and adjust the GUI to your own liking.
 
-![VSCode Start Page](<Screenshot 2025-10-02 102352.png>)
+<img src="img/Screenshot 2025-10-02 102352.png" alt="VSCode Start Page">
 
 ## Step 6
 Next, select the profile icon on the bottom left corner and click on **"Sign in to Sync Settings"**. At this point, you will be prompted to sign in to your GitHub account (please have this ready beforehand!). Once it is clicked on, the web browser will reopen prompting the user to authorize VSCode access to GitHub. Select continue and **"Open Visual Studio Code"** when prompted.
 
-![Sign in to GitHub](<Screenshot 2025-10-02 102716.png>)
-![Choose User to Authorize Access](<Screenshot 2025-10-02 102802.png>) 
-![Continue to VSCode](<Screenshot 2025-10-02 102752.png>)
+<img src="img/Screenshot 2025-10-02 102716.png" alt="Sign in to GitHub">
+<img src="img/Screenshot 2025-10-02 102802.png" alt="Choose User to Authorize Access">
+<img src="img/Screenshot 2025-10-02 102752.png" alt="Continue to VSCode">
 
 # Installing and Setting Up Git
 Git needs to be downloaded in order for VSCode to sync directly to GitHub.
@@ -53,8 +53,9 @@ Go to the Source Control tab on VSCode (third tab). It will prompt for the downl
 
 Make sure to download the Windows x64 option or the option that is most compatible with the operating system.
 
-![Download Git VSCode](<Screenshot 2025-10-02 102829.png>) ![Click Open](<Screenshot 2025-10-02 102840.png>)
-![Download x64 Git](<Screenshot 2025-10-02 102910.png>)
+<img src="img/Screenshot 2025-10-02 102829.png" alt="Download Git VSCode">
+<img src="img/Screenshot 2025-10-02 102840.png" alt="Click Open">
+<img src="img/Screenshot 2025-10-02 102910.png" alt="Download x64 Git">
 
 ## Step 2
 Save the download file to the downloads folder. Then, **"Run as administrator"** and follow and accept the default settings in each prompt.
