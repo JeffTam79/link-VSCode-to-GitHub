@@ -7,7 +7,7 @@
 
 # Step 1
 Download and run the Visual Studio Code .exe file and accept the default settings.
-![Download VSCode](DownloadVSCode.jpg)
+<p align="center"><img src="img/DownloadVSCode.png" alt="Download VSCode"></p>
 
 # Step 2
 
