@@ -21,17 +21,17 @@ Save the executable (.exe) file to your downloads folder.
 ## Step 3
 Once the download is complete, right click the file and select **Run as administrator**.
 
-![Run VSCode as Administrator](<Screenshot 2025-10-02 102114.png>)
+<img src="img/Screenshot 2025-10-02 102114.png" alt="Run VSCode as Administrator">
 
 ## Step 4
 Run through the installation prompts and accept all the defaults as shown in the following screenshots.
 
-![Installation Prompt 1 - Select Agree](<Screenshot 2025-10-02 102156.png>) 
-![Installation Prompt 2 - Select Next](<Screenshot 2025-10-02 102205.png>) 
-![Installation Prompt 3 - Select Next](<Screenshot 2025-10-02 102213.png>) 
-![Installation Prompt 4 - Select Next](<Screenshot 2025-10-02 102226.png>) 
-![Installation Prompt 5 - Select Install](<Screenshot 2025-10-02 102236.png>) 
-![Installation Prompt 6 - Select Finish](<Screenshot 2025-10-02 102314.png>)
+<img src="img/Screenshot 2025-10-02 102156.png" alt="Installation Prompt 1 - Select Agree">
+<img src="img/Screenshot 2025-10-02 102205.png" alt="Installation Prompt 2 - Select Next">
+<img src="img/Screenshot 2025-10-02 102213.png" alt="Installation Prompt 3 - Select Next">
+<img src="img/Screenshot 2025-10-02 102226.png" alt="Installation Prompt 4 - Select Next">
+<img src="img/Screenshot 2025-10-02 102236.png" alt="Installation Prompt 5 - Select Install">
+<img src="img/Screenshot 2025-10-02 102314.png" alt="Installation Prompt 6 - Select Finish">
 
 ## Step 5
 VSCode will launch with a welcome page. (*Not shown in the screenshots below*) Please click through all the initial prompts and adjust the GUI to your own liking.
