@@ -106,7 +106,63 @@ Return to VSCode and reload the source control screen to confirm that Git is ins
 ![Reload](<Screenshot 2025-10-02 103733.png>)
 ![Git Installed Properly](<Screenshot 2025-10-02 103814.png>)
 
+# Setting up VSCode with GitHub Repository Connection
+Make sure there is a project folder located on the computer and know it's directory path.
 
+## Step 1
+Select "Open Folder" and find the project folder.
+
+![Open Folder](<Screenshot 2025-10-02 103834.png>) 
+![Select Folder](<Screenshot 2025-10-02 104059.png>)
+![Folder Open in VSCode](<Screenshot 2025-10-02 104116.png>)
+
+## Step 2
+In Source Control, select Initialize Repository. Select the three elipses by "Changes" to open a drop down menu. Then select "Remote" and "Add Remote."
+
+![Initialize Repository](<Screenshot 2025-10-02 104129.png>)
+
+## Step 3
+Add a remote (connect to GitHub repository). 
+
+![Add Remote](<Screenshot 2025-10-02 104328.png>)
+
+## Step 4
+When prompted, go to the GitHub repository of your choosing. Then, click the "Code" drop down and copy the link shown below. Then, paste it into the VSCode prompt. 
+
+VSCode will then prompt to rename the remote. Keep it simple.
+
+![Copy GitHub Link](<Screenshot 2025-10-02 104351.png>) 
+![Paste GitHub Link](<Screenshot 2025-10-02 104454.png>) 
+![Rename the Remote](<Screenshot 2025-10-02 104516.png>)
+
+## Step 5
+Next, we need to sync or pull from the GitHub repository to make sure VSCode has all of GitHub's changes to avoid errors later. Select the three elipses next to "Changes" and select "Pull, Push" and then "Pull from...".
+
+![Pull From](<Screenshot 2025-10-02 104539.png>)
+
+## Step 6
+Next, VSCode will prompt the user to select a branch. Select the option with the "Main" branch.
+
+![Select Main Branch](<Screenshot 2025-10-02 104605.png>)
+
+## Step 7
+Select "Publish Branch"
+
+![Publish Branch](<Screenshot 2025-10-02 104624.png>)
+
+### Syncing Changes on VSCode with GitHub
+
+## Step 1
+Any changes on VSCode will need to be synced with GitHub. It is also good practice to make notes of what was done. Under the "Changes" section, add a comment noting the changes done. Make sure to copy this comment.
+
+Then, select "Commit" and select "Yes" when a pop-up appears.
+
+Afterwards, paste the comment from the "Commit" and select "Sync Changes." Press Okay, but make sure the pop-up message states that changes will be pushed to the "main" branch.
+
+![Commit](<Screenshot 2025-10-02 104743.png>) 
+![Yes](<Screenshot 2025-10-02 104754.png>)
+![Sync](<Screenshot 2025-10-02 104812.png>) 
+![Ok](<Screenshot 2025-10-02 104822.png>) 
 
 
 
