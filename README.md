@@ -45,8 +45,39 @@ Next, select the profile icon on the bottom left corner and click on **"Sign in 
 ![Choose User to Authorize Access](<Screenshot 2025-10-02 102802.png>) 
 ![Continue to VSCode](<Screenshot 2025-10-02 102752.png>)
 
-# Step 2
-Log into GitHub using the same browser page. If you do not have an account, create one.
+# Installing and Setting Up Git
+Git needs to be downloaded in order for VSCode to sync directly to GitHub.
+
+## Step 1
+Go to the Source Control tab on VSCode (third tab). It will prompt for the download of Git for Windows. Click **open** when prompted to do so. It will then redirect to the official Git download page. 
+
+Make sure to download the Windows x64 option or the option that is most compatible with the operating system.
+
+![Download Git VSCode](<Screenshot 2025-10-02 102829.png>) ![Click Open](<Screenshot 2025-10-02 102840.png>)
+![Download x64 Git](<Screenshot 2025-10-02 102910.png>)
+
+## Step 2
+Save the download file to the downloads folder. Then, **"Run as administrator"** and follow and accept the default settings in each prompt.
+
+![Save to Downloads](<Screenshot 2025-10-02 102933.png>) 
+![Run as administrator](<Screenshot 2025-10-02 103005.png>) 
+![Installation Prompt 1 - Select Next](<Screenshot 2025-10-02 103032.png>) 
+![Installation Prompt 2 - Select Next](<Screenshot 2025-10-02 103039.png>) 
+![Installation Prompt 3 - Select Next](<Screenshot 2025-10-02 103045.png>) 
+![Installation Prompt 4 - Select Next](<Screenshot 2025-10-02 103053.png>) 
+![Installation Prompt 5 - Select Next](<Screenshot 2025-10-02 103101.png>) 
+![Installation Prompt 6 - Select Next](<Screenshot 2025-10-02 103109.png>) 
+![Installation Prompt 7 - Select Next](<Screenshot 2025-10-02 103118.png>) 
+![Installation Prompt 8 - Select Next](<Screenshot 2025-10-02 103124.png>) 
+![Installation Prompt 9 - Select Next](<Screenshot 2025-10-02 103131.png>) 
+![Installation Prompt 10 - Select Next](<Screenshot 2025-10-02 103139.png>) 
+![Installation Prompt 11 - Select Next](<Screenshot 2025-10-02 103146.png>) 
+![Installation Prompt 12 - Select Next](<Screenshot 2025-10-02 103154.png>) 
+![Installation Prompt 13 - Select Next](<Screenshot 2025-10-02 103202.png>) 
+![Installation Prompt 14 - Select Install](<Screenshot 2025-10-02 103209.png>) 
+![Installation Prompt 1 - Select Finish](<Screenshot 2025-10-02 103318.png>)
+
+## Step 3
 
 1. Open Folder
 2. Go to Source Control
